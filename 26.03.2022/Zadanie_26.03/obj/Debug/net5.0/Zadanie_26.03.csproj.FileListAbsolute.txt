@@ -1,0 +1,16 @@
+C:\Users\bskrzypek.S309.000\Desktop\scripts\kurs_programowania_26.03.22\Zadanie_26.03\bin\Debug\net5.0\Zadanie_26.03.exe
+C:\Users\bskrzypek.S309.000\Desktop\scripts\kurs_programowania_26.03.22\Zadanie_26.03\bin\Debug\net5.0\Zadanie_26.03.deps.json
+C:\Users\bskrzypek.S309.000\Desktop\scripts\kurs_programowania_26.03.22\Zadanie_26.03\bin\Debug\net5.0\Zadanie_26.03.runtimeconfig.json
+C:\Users\bskrzypek.S309.000\Desktop\scripts\kurs_programowania_26.03.22\Zadanie_26.03\bin\Debug\net5.0\Zadanie_26.03.runtimeconfig.dev.json
+C:\Users\bskrzypek.S309.000\Desktop\scripts\kurs_programowania_26.03.22\Zadanie_26.03\bin\Debug\net5.0\Zadanie_26.03.dll
+C:\Users\bskrzypek.S309.000\Desktop\scripts\kurs_programowania_26.03.22\Zadanie_26.03\bin\Debug\net5.0\ref\Zadanie_26.03.dll
+C:\Users\bskrzypek.S309.000\Desktop\scripts\kurs_programowania_26.03.22\Zadanie_26.03\bin\Debug\net5.0\Zadanie_26.03.pdb
+C:\Users\bskrzypek.S309.000\Desktop\scripts\kurs_programowania_26.03.22\Zadanie_26.03\obj\Debug\net5.0\Zadanie_26.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bskrzypek.S309.000\Desktop\scripts\kurs_programowania_26.03.22\Zadanie_26.03\obj\Debug\net5.0\Zadanie_26.03.AssemblyInfoInputs.cache
+C:\Users\bskrzypek.S309.000\Desktop\scripts\kurs_programowania_26.03.22\Zadanie_26.03\obj\Debug\net5.0\Zadanie_26.03.AssemblyInfo.cs
+C:\Users\bskrzypek.S309.000\Desktop\scripts\kurs_programowania_26.03.22\Zadanie_26.03\obj\Debug\net5.0\Zadanie_26.03.csproj.CoreCompileInputs.cache
+C:\Users\bskrzypek.S309.000\Desktop\scripts\kurs_programowania_26.03.22\Zadanie_26.03\obj\Debug\net5.0\Zadanie_26.03.dll
+C:\Users\bskrzypek.S309.000\Desktop\scripts\kurs_programowania_26.03.22\Zadanie_26.03\obj\Debug\net5.0\ref\Zadanie_26.03.dll
+C:\Users\bskrzypek.S309.000\Desktop\scripts\kurs_programowania_26.03.22\Zadanie_26.03\obj\Debug\net5.0\Zadanie_26.03.pdb
+C:\Users\bskrzypek.S309.000\Desktop\scripts\kurs_programowania_26.03.22\Zadanie_26.03\obj\Debug\net5.0\Zadanie_26.03.genruntimeconfig.cache
+C:\Users\bskrzypek.S309.000\Desktop\scripts\kurs_programowania_26.03.22\Zadanie_26.03\obj\Debug\net5.0\Zadanie_26.03.csprojAssemblyReference.cache
