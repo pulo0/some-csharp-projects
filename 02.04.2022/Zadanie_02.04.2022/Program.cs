@@ -8,6 +8,7 @@ namespace Zadanie_02._04._2022
 
         static void Main(string[] args)
         {
+            //Put a route to a file
             string fileRoute = "";
 
             if(!File.Exists(fileRoute))
