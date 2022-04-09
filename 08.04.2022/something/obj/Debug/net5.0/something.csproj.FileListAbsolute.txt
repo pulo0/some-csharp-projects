@@ -1,0 +1,15 @@
+C:\Users\bskrzypek.S309.000\Desktop\scripts\08.04.2022\something\bin\Debug\net5.0\something.exe
+C:\Users\bskrzypek.S309.000\Desktop\scripts\08.04.2022\something\bin\Debug\net5.0\something.deps.json
+C:\Users\bskrzypek.S309.000\Desktop\scripts\08.04.2022\something\bin\Debug\net5.0\something.runtimeconfig.json
+C:\Users\bskrzypek.S309.000\Desktop\scripts\08.04.2022\something\bin\Debug\net5.0\something.runtimeconfig.dev.json
+C:\Users\bskrzypek.S309.000\Desktop\scripts\08.04.2022\something\bin\Debug\net5.0\something.dll
+C:\Users\bskrzypek.S309.000\Desktop\scripts\08.04.2022\something\bin\Debug\net5.0\ref\something.dll
+C:\Users\bskrzypek.S309.000\Desktop\scripts\08.04.2022\something\bin\Debug\net5.0\something.pdb
+C:\Users\bskrzypek.S309.000\Desktop\scripts\08.04.2022\something\obj\Debug\net5.0\something.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bskrzypek.S309.000\Desktop\scripts\08.04.2022\something\obj\Debug\net5.0\something.AssemblyInfoInputs.cache
+C:\Users\bskrzypek.S309.000\Desktop\scripts\08.04.2022\something\obj\Debug\net5.0\something.AssemblyInfo.cs
+C:\Users\bskrzypek.S309.000\Desktop\scripts\08.04.2022\something\obj\Debug\net5.0\something.csproj.CoreCompileInputs.cache
+C:\Users\bskrzypek.S309.000\Desktop\scripts\08.04.2022\something\obj\Debug\net5.0\something.dll
+C:\Users\bskrzypek.S309.000\Desktop\scripts\08.04.2022\something\obj\Debug\net5.0\ref\something.dll
+C:\Users\bskrzypek.S309.000\Desktop\scripts\08.04.2022\something\obj\Debug\net5.0\something.pdb
+C:\Users\bskrzypek.S309.000\Desktop\scripts\08.04.2022\something\obj\Debug\net5.0\something.genruntimeconfig.cache
