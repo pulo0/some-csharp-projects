@@ -7,7 +7,7 @@ namespace _02._04._2022
     {
         static void Main(string[] args)
         {
-            string route = "C:\\Users\\bskrzypek.S309.000\\Desktop\\scripts\\02.04.2022\\test.txt";
+            string route = "";
 
             Console.WriteLine("OLD FILE");
             ReadingFromAFile(route);
