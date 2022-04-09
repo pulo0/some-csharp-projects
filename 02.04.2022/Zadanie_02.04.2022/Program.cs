@@ -8,7 +8,7 @@ namespace Zadanie_02._04._2022
 
         static void Main(string[] args)
         {
-            string fileRoute = "C:\\Users\\bskrzypek.S309.000\\Desktop\\scripts\\02.04.2022\\ksiazka_telefoniczna.txt";
+            string fileRoute = "";
 
             if(!File.Exists(fileRoute))
             {
