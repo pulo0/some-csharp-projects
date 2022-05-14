@@ -26,6 +26,8 @@ namespace WinFormsApp1
         {
             button.Text = lbl_player.Text;
 
+            lbx_history.Items.Add("Player: " + lbl_player.Text + " choose " + button.Name);
+
             if(IsGameEnded())
             {
                 MessageBox.Show("Player " + lbl_player.Text + " won a game");
@@ -38,6 +40,17 @@ namespace WinFormsApp1
             else
             {
                 lbl_player.Text = "O";
+            }
+
+            if(button.Text == "O")
+            {
+                Color green = Color.FromArgb(50, 194, 58);
+                button.BackColor = green;
+            }
+            else if (button.Text == "X")
+            {
+                Color red = Color.FromArgb(194, 50, 50);
+                button.BackColor = red;
             }
             button.Enabled = false;
         }
@@ -98,6 +111,8 @@ namespace WinFormsApp1
             {
                 button.Text = "";
                 button.Enabled = true;
+                button.BackColor = button1.BackColor;
+                lbx_history.Items.Clear();
             }
               
         }
@@ -108,7 +123,59 @@ namespace WinFormsApp1
             {
                 return true;
             }
+            else if (button_10.Text != "" && button_10.Text == button_11.Text && button_10.Text == button_12.Text)
+            {
+                return true;
+            }
+            else if (button_20.Text != "" && button_20.Text == button_21.Text && button_20.Text == button_22.Text)
+            {
+                return true;
+            }
+
+
+            if (button_00.Text != "" && button_00.Text == button_10.Text && button_00.Text == button_20.Text)
+            {
+                return true;
+            }
+            else if (button_01.Text != "" && button_01.Text == button_11.Text && button_01.Text == button_21.Text)
+            {
+                return true;
+            }
+            else if (button_02.Text != "" && button_02.Text == button_12.Text && button_02.Text == button_22.Text)
+            {
+                return true;
+            }
+
+
+            if (button_00.Text != "" && button_00.Text == button_11.Text && button_00.Text == button_22.Text)
+            {
+                return true;
+            }
+            else if (button_20.Text != "" && button_20.Text == button_11.Text && button_20.Text == button_02.Text)
+            {
+                return true;
+            }
             return false;
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            Color whiteModeBaby = Color.FromArgb(235,236,237);
+            Color darkModeBaby = Color.FromArgb(28,29,31);
+
+            if(checkBox1.Checked == true)
+            {
+                BackColor = darkModeBaby;
+                lbl.ForeColor = whiteModeBaby;
+                lbl_player.ForeColor = whiteModeBaby;
+            }
+            else
+            {
+                BackColor = whiteModeBaby;
+                lbl.ForeColor = darkModeBaby;
+                lbl_player.ForeColor = darkModeBaby;
+            }
+            
         }
     }
 }
